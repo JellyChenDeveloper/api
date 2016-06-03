@@ -7,10 +7,7 @@
 <div>
     <ul>
         <li>
-            <a href="qrcode.php" id="qtcode">二维码</a>
-        </li>
-        <li>
-            <img src="qrcode.php" />
+            <a href="QRCode/index.html" id="qtcode">二维码生成</a>
         </li>
     </ul>
 </div>
